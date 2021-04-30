@@ -15,7 +15,7 @@
 >參閱：[星號標誌](https://code.tutsplus.com/zh-hant/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 ## **視差效果**
-```Javascript
+```Javacript
    <script>
         let stars = document.getElementById('stars');
         let moon = document.getElementById('moon');
