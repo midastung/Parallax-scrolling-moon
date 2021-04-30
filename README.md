@@ -1,5 +1,5 @@
 # Parallax Scrolling Website
-[Demo]:(https://midastung.github.io/Parallax-scrolling-moon/index.html)
+[[DEMO]](https://midastung.github.io/Parallax-scrolling-moon/index.html)
 
 ## **星號標誌**
 ```CSS
